@@ -1,0 +1,7 @@
+{
+  "name": "Project GhostHand",
+  "description": "A conversational AI interface for developers and designers, simulating a hands-free OS control experience using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
